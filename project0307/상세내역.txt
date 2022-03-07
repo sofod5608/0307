@@ -1,0 +1,21 @@
+index 페이지
+join 페이지 회원가입 폼
+
+** 기본 컨텐츠 정렬은 flex
+
+공통부분
+header
+ 	.nav최대 1000 가로 가운데
+		로고 gnb(5)
+container
+	.sections 최대 1200 가로가운데
+		.sec1 100%*500  relative
+			.gallery 500%*500 abosolute
+				ul<li*5 배경이미지
+footer
+	.fcon 1000 가로 가운데
+
+반응형
+모바일    640이하
+태블릿    767이하
+데스크탑 768이상
